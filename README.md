@@ -1,6 +1,13 @@
 # inu
 
-> My good Nuxt.js project
+My good Nuxt.js project
+
+You can see a variety of dogs around the world.
+In rooted page many buttons of dog name are listed, and when you click one of them moving to a page on that you will see a bunch of dog photos of that breed.
+
+Other functions and improvements of this app will be committed I'm planning now.
+
+Thanks
 
 ## Build Setup
 
